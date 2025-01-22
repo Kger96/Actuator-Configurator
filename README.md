@@ -6,6 +6,8 @@
 [![Python: 37,38,39,310](https://img.shields.io/badge/python-3.7%20%7C%203.8%20%7C%203.9%20%7C%203.10-blue)](https://python.org)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
+NOTE: SOURCE CODE HAS BEEN REMOVED BUT IMAGES ARE STILL PRESENT TO DEMONSTRATE USUABILITY OF THE APPLICATION
+
 This project provides an easy-to-use graphical user interface to enable interaction with Rotork products which utilise
 CP (Common Protocol) over Bluetooth and/or CAN-bus communications. This project makes use of the Rotork Common Protocol
 Python Package. 
